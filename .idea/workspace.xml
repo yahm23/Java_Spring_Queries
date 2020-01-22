@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf037915-577d-4704-8571-3f13d363c0a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/DistilleryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/controllers/DistilleryController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/codeclan/example/WhiskyTracker/repositories/WhiskyRepository/WhiskyRepositoryImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/codeclan/example/WhiskyTracker/WhiskyTrackerApplicationTests.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
